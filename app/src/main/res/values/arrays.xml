@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="test">
+		<item>   Hospital</item>
+		<item>   Open time: 8h00 - 12h00</item>
+		<item>   Tel: (+33)0770008480</item>
+	</string-array>
+</resources>
